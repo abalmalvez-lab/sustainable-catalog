@@ -165,9 +165,8 @@ Edit the CSS variables at the top of `public/css/style.css`:
 ```
 
 ### Adding Product Images
-1. Upload images to `public/images/`
-2. Update the `image_url` column in the `products` table
-3. Modify the product card template in the views to display `<img>` tags
+1. Update the `image_url` column in the `products` table
+2. Modify the product card template in the views to display `<img>` tags
 
 ---
 
