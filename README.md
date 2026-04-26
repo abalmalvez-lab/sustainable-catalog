@@ -116,7 +116,7 @@ sustainable-catalog/
 2. Upload ALL files to the `htdocs/` directory
 3. Make sure `index.php` is at the root of `htdocs/`
 
-### Step 6: Visit Your Site
+### Step 6: Visit the published site for this project.
 Open `https://aalmalvez.ct.ws` in your browser.
 
 ---
